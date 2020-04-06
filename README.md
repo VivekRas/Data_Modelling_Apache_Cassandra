@@ -8,7 +8,7 @@ Modelling a NoSQL database and building an ETL pipeline on Apache Cassandra
 
 **Part I. ETL Pipeline for Pre-Processing the Files**
 
-1. Build a code to read data stored in json files from directories into one csv file
+1. Build a code to read data stored in csv files from directories into one csv file
 
 **Part II. Apache Cassandra coding**
 
